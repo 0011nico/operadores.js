@@ -1,0 +1,10 @@
+function suma ( abc, def)
+{
+    let suma = abc + def
+    console.log(suma);
+
+}
+suma(5, 10)
+suma(20, 30)
+suma(20,50)
+
